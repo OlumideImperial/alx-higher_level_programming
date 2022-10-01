@@ -1,5 +1,3 @@
-lines (20 sloc)  752 Bytes
-
 #!/usr/bin/python3
 
 """Define a MagicClass matching exactly a bytecode provided by Holberton."""
